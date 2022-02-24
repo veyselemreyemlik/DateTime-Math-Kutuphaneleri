@@ -1,0 +1,16 @@
+C:\Users\veyse\OneDrive\Masaüstü\Lab Uygulamaları\String-Methods\String-Methods\bin\Debug\net5.0\String-Methods.exe
+C:\Users\veyse\OneDrive\Masaüstü\Lab Uygulamaları\String-Methods\String-Methods\bin\Debug\net5.0\String-Methods.deps.json
+C:\Users\veyse\OneDrive\Masaüstü\Lab Uygulamaları\String-Methods\String-Methods\bin\Debug\net5.0\String-Methods.runtimeconfig.json
+C:\Users\veyse\OneDrive\Masaüstü\Lab Uygulamaları\String-Methods\String-Methods\bin\Debug\net5.0\String-Methods.runtimeconfig.dev.json
+C:\Users\veyse\OneDrive\Masaüstü\Lab Uygulamaları\String-Methods\String-Methods\bin\Debug\net5.0\String-Methods.dll
+C:\Users\veyse\OneDrive\Masaüstü\Lab Uygulamaları\String-Methods\String-Methods\bin\Debug\net5.0\ref\String-Methods.dll
+C:\Users\veyse\OneDrive\Masaüstü\Lab Uygulamaları\String-Methods\String-Methods\bin\Debug\net5.0\String-Methods.pdb
+C:\Users\veyse\OneDrive\Masaüstü\Lab Uygulamaları\String-Methods\String-Methods\obj\Debug\net5.0\String-Methods.csproj.AssemblyReference.cache
+C:\Users\veyse\OneDrive\Masaüstü\Lab Uygulamaları\String-Methods\String-Methods\obj\Debug\net5.0\String-Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veyse\OneDrive\Masaüstü\Lab Uygulamaları\String-Methods\String-Methods\obj\Debug\net5.0\String-Methods.AssemblyInfoInputs.cache
+C:\Users\veyse\OneDrive\Masaüstü\Lab Uygulamaları\String-Methods\String-Methods\obj\Debug\net5.0\String-Methods.AssemblyInfo.cs
+C:\Users\veyse\OneDrive\Masaüstü\Lab Uygulamaları\String-Methods\String-Methods\obj\Debug\net5.0\String-Methods.csproj.CoreCompileInputs.cache
+C:\Users\veyse\OneDrive\Masaüstü\Lab Uygulamaları\String-Methods\String-Methods\obj\Debug\net5.0\String-Methods.dll
+C:\Users\veyse\OneDrive\Masaüstü\Lab Uygulamaları\String-Methods\String-Methods\obj\Debug\net5.0\ref\String-Methods.dll
+C:\Users\veyse\OneDrive\Masaüstü\Lab Uygulamaları\String-Methods\String-Methods\obj\Debug\net5.0\String-Methods.pdb
+C:\Users\veyse\OneDrive\Masaüstü\Lab Uygulamaları\String-Methods\String-Methods\obj\Debug\net5.0\String-Methods.genruntimeconfig.cache
